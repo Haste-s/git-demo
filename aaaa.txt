@@ -4,3 +4,5 @@
 git gui
 
 git feature 1
+
+git feature 2
